@@ -35,6 +35,20 @@ body {
     font-size: 50px;
 }
 
+.how {
+    font-size: 20px;
+    background-color: white; 
+    border-radius: 15px;
+    border: none;
+    color: black;
+    padding: 0px 7px 0px 7px;
+    text-align: center;
+    text-justify: center;
+    text-decoration: none;
+    display: inline-block;
+      
+}
+
 .list {
     display: flex;
     justify-content: center;
