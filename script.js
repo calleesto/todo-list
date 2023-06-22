@@ -8,5 +8,5 @@ function addToList() {
     list.appendChild(item);
 
     input.type = "text";
-    input.size = "60";
+    input.size = "20";
 }
