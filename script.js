@@ -22,7 +22,4 @@ function alert() {
     item.appendChild(input);
     list.appendChild(item);
     input.innerHTML = msg
-
-    input.type = "text";
-    input.size = "20";
 }
